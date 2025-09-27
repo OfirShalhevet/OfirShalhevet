@@ -1,7 +1,7 @@
 <img width="1584" height="396" alt="Abstract Technology Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/09bb8ef0-de68-42f8-8bac-10952ceafec6" />
 <!-- Banner -->
 <p align="center">
-  <img src="banner.png" alt="Ofir Shalhevet Banner" width="100%">
+
 </p>
 
 # Hi, I'm Ofir Shalhevet 👋  
