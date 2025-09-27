@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 - [Candidate Suitability Prediction](https://github.com/OfirShalhevet/Candidate_Suitability_Prediction)  
   Binary classification model predicting candidate hiring suitability using Random Forest and PCA.  
 
@@ -21,6 +21,6 @@
 
 ---
 
-## 🌐 Connect with me
+##  Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-OfirShalhevet-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofir-shalhevet-607544221/)  
 ✉️ Email: **Ofirshalhevet41@gmail.com**  
