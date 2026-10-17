@@ -1,26 +1,45 @@
 <img width="1584" height="396" alt="Abstract Technology Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/09bb8ef0-de68-42f8-8bac-10952ceafec6" />
-<!-- Banner -->
-<p align="center">
 
-</p>
+# Hi, I'm Ofir Shalhevet 👋
 
-# Hi, I'm Ofir Shalhevet 👋  
+**System Analyst & Solution Architect | Data Analytics | Product Analytics | AI**
 
-🎓 Final-year student in Digital Sciences for High-Tech at Tel Aviv University  
-💡 Passionate about Data Analysis, Machine Learning, Algorithms, and Programming  
-📊 Experienced with Python, SQL, Pandas, Scikit-Learn, and Data Visualization tools  
+I'm a System Analyst & Solution Architect with a B.Sc. in Digital Sciences for High-Tech from Tel Aviv University, graduating with honors.
 
----
+I enjoy connecting data, technology, and business challenges — turning complex information into meaningful insights and practical solutions.
 
-##  Projects
-- [Candidate Suitability Prediction](https://github.com/OfirShalhevet/Candidate_Suitability_Prediction)  
-  Binary classification model predicting candidate hiring suitability using Random Forest and PCA.  
+In my current role at Commugen, I work on end-to-end enterprise solutions, including system analysis, SQL-based processes, data integrations, dashboards, and KPI-driven reporting.
 
-- [CellenLink Rain Prediction](https://github.com/OfirShalhevet/CellenLink_Rain_Prediction)  
-  Smart rain detection model using cellular microwave links, combining spatial data with logistic regression.  
+I'm particularly interested in **Data Analytics, Product Analytics, and Applied AI**, with a focus on understanding user behavior, solving business problems, and building smarter data-driven workflows.
 
----
+## Tech Stack
 
-##  Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-OfirShalhevet-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofir-shalhevet-607544221/)  
-✉️ Email: **Ofirshalhevet41@gmail.com**  
+- **Data & Analytics:** SQL, Python, Pandas, NumPy, Excel
+- **Machine Learning:** Scikit-learn, Classification, Feature Engineering, Model Evaluation
+- **BI & Visualization:** Power BI, Tableau, Dashboards, KPI Reporting
+- **Data Engineering & Systems:** ETL, Data Modeling, APIs, System Integrations
+- **Currently Exploring:** LLMs, AI Agents, AI-powered Analytics
+
+## Featured Projects
+
+### [Rainfall Prediction Using Cellular Networks](https://github.com/OfirShalhevet/CellenLink_Rain_Prediction)
+
+Developed machine learning models to detect and classify rainfall using cellular microwave link data. Explored feature engineering, spatial aggregation, and predictive modeling to evaluate alternative approaches to environmental monitoring.
+
+**Skills:** Python · Machine Learning · Feature Engineering · Data Analysis
+
+### [Candidate Suitability Prediction](https://github.com/OfirShalhevet/Candidate_Suitability_Prediction)
+
+Built a machine learning pipeline for binary classification using structured data, including preprocessing, feature engineering, model comparison, and performance evaluation.
+
+**Skills:** Python · Pandas · Scikit-learn · Predictive Modeling
+
+## What I'm Working On
+
+- Strengthening advanced SQL and Product Analytics skills
+- Exploring LLMs, AI Agents, and analytics automation
+- Building practical projects combining data exploration, business insights, and AI
+
+## Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/ofir-shalhevet-607544221/)
